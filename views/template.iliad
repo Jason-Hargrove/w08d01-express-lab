@@ -1,0 +1,22 @@
+<head>
+#title#
+</head>
+<style>
+body { background-color: rgba(255, 255, 126, .2);}
+hr {
+  border: 5px solid rgba(255, 255, 126, 1);;
+  border-radius: 5px;
+}
+h1 {
+text-align: center;
+color: red;
+}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+<body>
+<header>#message#</header>
+<hr>
+#content#
+<p>#linkOne# #linkTwo#</p>
+</body>
